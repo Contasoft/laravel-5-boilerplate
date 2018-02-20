@@ -10,7 +10,7 @@ Laravel Boilerplate le proporciona una ventaja inicial masiva en cualquier aplic
 
 ### Wiki
 
-Visitar el [wiki](https://github.com/contasoft/laravel-5-boilerplate/wiki) para un listado de [características](https://github.com/rappasoft/laravel-5-boilerplate/wiki#features).
+Visitar el [wiki](https://github.com/contasoft/laravel-5-boilerplate/wiki) para un listado de [características](https://github.com/contasoft/laravel-5-boilerplate/wiki#features).
 
 ### Problemas
 
